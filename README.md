@@ -1,9 +1,9 @@
 ### Hello there 👋 beings!
 
-### This is documentation for planning, deploying, monitoring and managing IT infrastructure with open source tools.  
+### Planning, deploying, monitoring and managing IT infrastructure with open source tools.  
 
-#### - 🔭 I'm currently recreating my homelab from scratch. Whole project will be documented. I'll be going through basic aspects that should be considered when creating IT infrastructure. 
-#### - Documentation of all this will be available later on website that I'm also currently coding.
+### - 🔭 I'm currently recreating my homelab from scratch. Whole project will be documented. I'll be going through basic aspects that should be considered when creating IT infrastructure. 
+#### - Documentation of all this will be available later on website that I'm also currently building.
 #### - I will also create documentation for website creation process.
 #### Stay tuned! - /ˈsloʊ.li/
  
