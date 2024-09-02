@@ -5,7 +5,7 @@
 
 ### - 🔭 I'm currently recreating my homelab from scratch. Whole project will be documented.
 ### - Configs will be shared as "Infrastructure as Code (IaC)" https://en.wikipedia.org/wiki/Infrastructure_as_code  
-### - I'll be going through basic aspects that should be considered when creating IT infrastructure. 
+### - I'll be going through basic aspects that should be considered when creating homelab IT infrastructure . 
 #### - Documentation of all this will be available later on website that I'm also currently building.
 #### - I will also create documentation for website creation process.
 #### Stay tuned! - /ˈsloʊ.li/
