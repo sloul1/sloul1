@@ -1,7 +1,7 @@
 ### Hello there 👋 beings!
 
 ### Planning, deploying, monitoring and managing IT infrastructure with open source tools...
-### ...hopefully some "real" coding too.😄  
+### ...also coding.  
 
 ### - 🔭 I'm currently recreating my homelab from scratch. Whole project will be documented.
 ### - Configs will be shared as "Infrastructure as Code (IaC)" https://en.wikipedia.org/wiki/Infrastructure_as_code  
