@@ -1,23 +1,33 @@
-# Utilizing Infrastructure as Code (IaC)
-https://en.wikipedia.org/wiki/Infrastructure_as_code
+# Renewed <img src="stumble-icon-trans.webp" alt="stumble.eu.org" title="stumble.eu.org" style="display: inline-block; margin: 0 auto; width: 30px"> [stumble.eu.org](https://stumble.eu.org) is up and running!
 
-I am continuously planning, documenting...  
-...deploying, configuring, monitoring, managing (also tearing down) highly available ICT infrastructure with open source tools.
+Come visit and check out our [constantly updating content](https://stumble.eu.org/#papers)!  
+
+## Some of the upcoming topics  
 
 #### - Homelab
- - I'll be going through basic aspects that should be considered when creating homelab ICT infrastructure. 
- - Documentation of all this will be available later on website currently under development.
- - I will also create documentation for website creation process.
+ - We'll be going through basic aspects that should be considered when creating homelab ICT infrastructure. 
+ - Documentation of all this will be available later on [website](https://stumble.eu.org)  currently under development.
+ - There will be also documentation of website creation process.
 #### - Cyber security
-
+#### - Environmental impacts of ICT
 #### - Sofware development
+#### - Maintaining health while exploring technologies
 
-### Keep exploring! - /ˈsloʊ.li/ 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Keep exploring!  
+### - /ˈsloʊ.li/  
 
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/petridiy) 
+---
+I am continuously planning, documenting...deploying, configuring, monitoring, managing (also tearing down) highly available ICT infrastructure with open source tools. [Utilizing Infrastructure as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
+# 💻 Tech I Use:  
 
-# 💻 Tech:  
+
+  
 My main OS choice is 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black). 
 I also use 
@@ -87,9 +97,10 @@ Bind9, Unbound,  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?st
 Unsorted  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)  ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sloul1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sloul1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloul1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloul1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sloul1&theme=dark&hide_border=false)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sloul1&limit=5&theme=dark&combine_all_yearly_contributions=true)
