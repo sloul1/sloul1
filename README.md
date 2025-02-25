@@ -1,8 +1,15 @@
 # Renewed <img src="stumble-icon-trans.webp" alt="stumble.eu.org" title="stumble.eu.org" style="display: inline-block; margin: 0 auto; width: 30px"> [stumble.eu.org](https://stumble.eu.org) is up and running!
 
-Come visit and check out our [constantly updating content](https://stumble.eu.org/#papers)!  
+>It is possible to [support my work by donating on Ko-Fi](https://ko-fi.com/stumble).  
+>All kinds of donations are very much appreciated :)  
+<a href="https://ko-fi.com/stumble">
+<img src="support_me_on_kofi_dark.png" alt="Show your support by donating on Ko-Fi" title="Show your support by donating on Ko-Fi" style="display: inline-block; margin: 0 auto; width: 200px"> 
+</a>
 
-## Some of the upcoming topics  
+### Come visit and check out our [constantly growing content](https://stumble.eu.org/#papers)!  
+  
+
+### Some of the upcoming topics:  
 
 #### - Homelab
  - We'll be going through basic aspects that should be considered when creating homelab ICT infrastructure. 
@@ -17,7 +24,6 @@ Come visit and check out our [constantly updating content](https://stumble.eu.or
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### Keep exploring!  
 ### - /ˈsloʊ.li/  
-
 
 ---
 ## 🌐 Socials:
