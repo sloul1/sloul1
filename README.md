@@ -35,7 +35,7 @@ I am continuously planning, documenting...deploying, configuring, monitoring, ma
 
   
 My main OS choice is 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black). 
+![Fedora Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white). 
 I also use 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
@@ -75,8 +75,8 @@ Automation
 CMS & SSG  
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) 
-<a href="https://nuejs.org">
-<img src="https://raw.githubusercontent.com/nuejs/nue/refs/heads/master/packages/nuejs.org/img/logo.svg" height="18"> **nue**
+<a href="https://nuejs.org"> 
+<img src="https://raw.githubusercontent.com/nuejs/nue/refs/heads/master/packages/www/img/favicon.svg" height="28"> nue
 </a>  
 Databases  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
@@ -105,8 +105,6 @@ Unsorted
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloul1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sloul1&theme=dark&hide_border=false)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sloul1&limit=5&theme=dark&combine_all_yearly_contributions=true)
