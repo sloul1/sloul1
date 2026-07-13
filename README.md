@@ -34,13 +34,16 @@ I am continuously planning, documenting...deploying, configuring, monitoring, ma
 
 
   
-My main OS choice is 
+My personal main OS choice is 
 ![Fedora Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white). 
 I also use 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 and some 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0).
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0).  
+
+My mobile choice at the moment is GrapheneOS and I'm currently experimenting also using Sailfish OS and Ubuntu touch.   
+From the past ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) is most familiar for me.
+
 
 
 Programming  
